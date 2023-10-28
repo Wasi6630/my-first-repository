@@ -1,0 +1,15 @@
+.menu{
+    background-color: tomato;
+    border-radius: 10px;
+}
+
+.menu ul{
+   list-style: none;
+   display: flex;
+   padding: 20px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 100px;
+    color: yellow;}
